@@ -1,7 +1,7 @@
 local computer = require("computer")
 
-local paths = require("Paths")
-local event = require("Event")
+local paths = require("Paths_GUI")
+local event = require("Event_GUI")
 
 --------------------------------------------------------------------------------
 
