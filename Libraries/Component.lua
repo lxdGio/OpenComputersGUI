@@ -1,3 +1,4 @@
+local component = require("component")
 
 -- Returns first available component with given type
 function component.get(type)
