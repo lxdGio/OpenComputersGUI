@@ -1,3 +1,4 @@
+local computer = require("computer")
 local keyboard = require("Keyboard")
 local filesystem = require("Filesystem")
 local event = require("Event")
