@@ -1,3 +1,4 @@
+local computer = require("computer")
 
 local paths = require("Paths")
 local event = require("Event")
