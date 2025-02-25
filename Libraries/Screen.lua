@@ -1,3 +1,4 @@
+local component = require("Component")
 
 local color = require("Color")
 local image = require("Image")
