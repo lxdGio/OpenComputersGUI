@@ -1,4 +1,4 @@
-local component = require("Component")
+local component = require("Component_GUI")
 
 local color = require("Color_GUI")
 local image = require("Image_GUI")
