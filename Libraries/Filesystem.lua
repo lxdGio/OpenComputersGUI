@@ -1,3 +1,4 @@
+local component = require("Component_GUI")
 local computer = require("computer")
 
 local paths = require("Paths_GUI")
