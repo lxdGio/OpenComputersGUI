@@ -1,3 +1,4 @@
+local computer = require("computer")
 
 local color = require("Color")
 local filesystem = require("Filesystem")
