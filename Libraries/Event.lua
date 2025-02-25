@@ -1,3 +1,4 @@
+local computer = require("computer")
 
 local event, handlers, interruptingKeysDown, lastInterrupt = {
 	interruptingEnabled = true,
