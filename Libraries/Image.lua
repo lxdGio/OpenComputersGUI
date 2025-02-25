@@ -1,3 +1,4 @@
+local component = require("Component")
 local computer = require("computer")
 
 local color = require("Color")
