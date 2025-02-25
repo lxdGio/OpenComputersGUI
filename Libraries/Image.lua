@@ -1,5 +1,5 @@
 local component = require("Component_GUI")
-local computer = require("computer_GUI")
+local computer = require("Computer_GUI")
 
 local color = require("Color_GUI")
 local filesystem = require("Filesystem_GUI")
